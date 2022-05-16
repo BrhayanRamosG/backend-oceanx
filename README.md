@@ -1,8 +1,10 @@
-# Back-End OceanX
+# HackTheOcean
 
-A continuación, se presenta el API realizado para conectar la página de [OceanX](https).
+## Back-End OceanX
 
-# Front-End
+A continuación, se presenta el API realizado para conectar la página de [OceanX](https://armvasquez.github.io/HackTheOcean---OceanX/index.html).
+
+## Front-End
 
 [Link al repositario de Front-End](https://github.com/RodolfoMorquecho/HackTheOcean).
 
@@ -11,6 +13,7 @@ A continuación, se presenta el API realizado para conectar la página de [Ocean
 - NodeJS
 - Sequelize ORM
 - MySQL
+- MySQL Workbench
 
 ## Modelo de Base de Datos
 
