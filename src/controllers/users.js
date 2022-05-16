@@ -143,7 +143,7 @@ const userDelete = async (req, res = response) => {
   } catch (error) {
     console.log(error);
     res.status(500).json({
-      msg: "No se pudo actualizar el usuario",
+      msg: "No se pudo eliminar el usuario",
     });
   }
 };
