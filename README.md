@@ -6,7 +6,7 @@ A continuación, se presenta el API realizado para conectar la página de [Ocean
 
 ## Front-End
 
-[Link al repositario de Front-End](https://github.com/RodolfoMorquecho/HackTheOcean).
+[Link repositorio Front-End](https://github.com/RodolfoMorquecho/HackTheOcean).
 
 ## Herramientas
 
