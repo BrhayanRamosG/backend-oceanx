@@ -70,6 +70,14 @@ Listar formularios registrados
 ![Listar formulario en específico](images/Captura16.png)
 Listar formulario en específico
 
+## Contenerización agregada
+
+![Contenedores Docker CLI](images/Captura17.png)
+Contenedores Docker CLI
+
+![Contenedores Docker GUI](images/Captura18.png)
+Contenedores Docker GUI
+
 ## Créditos
 
 [Brhayan Ramos Gamboa](https://github.com/BrhayanRamosG)
